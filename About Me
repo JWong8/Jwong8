@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+      <title>About Me</title>
+    </head>    
+     
+    <body>
+        <h1>Jason Wong</h1>
+        <ol>
+            <li>I like to play videogames</li>
+        </ol>
+        
+        <a href="about.html">Picture</a>
+    </body>
+</html>
